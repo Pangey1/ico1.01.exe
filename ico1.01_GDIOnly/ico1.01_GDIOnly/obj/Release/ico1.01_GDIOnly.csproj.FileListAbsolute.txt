@@ -1,0 +1,8 @@
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\obj\Release\ico1.01_GDIOnly.csproj.AssemblyReference.cache
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\obj\Release\ico1._01_GDIOnly.Properties.Resources.resources
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\obj\Release\ico1.01_GDIOnly.csproj.GenerateResource.cache
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\obj\Release\ico1.01_GDIOnly.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\bin\Release\ico1.01_GDIOnly.exe
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\bin\Release\ico1.01_GDIOnly.pdb
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\obj\Release\ico1.01_GDIOnly.exe
+C:\Users\Сергей\Downloads\ico1.01_GDIOnly\ico1.01_GDIOnly\obj\Release\ico1.01_GDIOnly.pdb
