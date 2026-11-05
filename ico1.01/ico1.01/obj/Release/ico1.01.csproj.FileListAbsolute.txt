@@ -1,0 +1,8 @@
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\bin\Release\ico1.01.exe
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\bin\Release\ico1.01.pdb
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\obj\Release\ico1.01.csproj.AssemblyReference.cache
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\obj\Release\ico1._01.Properties.Resources.resources
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\obj\Release\ico1.01.csproj.GenerateResource.cache
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\obj\Release\ico1.01.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\obj\Release\ico1.01.exe
+C:\Users\Сергей\Downloads\ico1.01\ico1.01\obj\Release\ico1.01.pdb
